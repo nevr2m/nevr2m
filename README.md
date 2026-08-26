@@ -1,5 +1,3 @@
-
-
 ## Patricia Borges
 `Desenvolvedora em formação`
 ### Sobre mim
