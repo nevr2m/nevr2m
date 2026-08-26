@@ -5,8 +5,6 @@
 
 Me chamo Patricia, tenho 22 anos e atualmente estudo Desenvolvimento de Sistemas na ETEC. Construindo projetos, aprendendo na prática e em busca da minha primeira oportunidade na área de tecnologia.
 
----
-
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-borges-57b5ba34a/)
