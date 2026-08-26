@@ -1,5 +1,7 @@
 ## Patricia Borges
 `Desenvolvedora em formação`
+---
+
 ### Sobre mim
 Me chamo Patricia, tenho 22 anos e atualmente estudo Desenvolvimento de Sistemas na ETEC. Construindo projetos, aprendendo na prática e em busca da minha primeira oportunidade na área de tecnologia. 
 
